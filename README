@@ -1,0 +1,1 @@
+Percepio has a commercial tool for analyzing traces. To enable this tool, a recorder is required on the target. There is a recorder existing for the FreeRTOS system that serves as a reference implementation. To satisfy the increasing embedded linux market, there is a need for  a recorder for linux systems. This project targets very small linux systems with single cores. 
